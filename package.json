@@ -1,5 +1,6 @@
 {
   "name": "react-rolldown",
+  "type": "module",
   "version": "0.0.1",
   "description": "A React setup with rolldown",
   "author": "Will Medina <will@willyelm.com>",
