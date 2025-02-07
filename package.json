@@ -1,0 +1,9 @@
+{
+  "name": "react-rolldown",
+  "version": "0.0.1",
+  "description": "A React setup with rolldown",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Will Medina <will@willyelm.com>"
+}
