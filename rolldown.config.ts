@@ -5,4 +5,4 @@ export default defineConfig({
   output: {
     file: 'bundle.js',
   },
-})
+});
